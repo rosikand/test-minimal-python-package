@@ -1,4 +1,4 @@
-Minimal python package. 
+[Minimal](https://python-packaging.readthedocs.io/en/latest/minimal.html#) python package. 
 
 Installation: 
 
