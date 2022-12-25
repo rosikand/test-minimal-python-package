@@ -12,4 +12,4 @@ def test_module():
 
 
 def print_with_markdown(text):
-	print(markdown("**bold**"))
+	print(markdown(f"here is your text: **{text}**"))
