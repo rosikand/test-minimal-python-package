@@ -5,7 +5,7 @@ file: moremaths.py
 """
 
 
-import complexmaths
+import .complexmaths
 
 def add_three(x):
     return complexmaths.add(x, 3)
