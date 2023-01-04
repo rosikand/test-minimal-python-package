@@ -12,7 +12,7 @@ def read_requirements_file(filename):
 
 
 setup(name='test_minimal_python_package',
-      version='0.0.5',
+      version='0.0.6',
       description='The most minimal python package in the world',
       url='https://github.com/rosikand/test_minimal_python_package',
       author='Rohan Sikand',
